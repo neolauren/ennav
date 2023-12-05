@@ -1,16 +1,16 @@
 {
-  "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
+  "favicon": "https://cdn.jsdelivr.net/gh/neolauren/ennav@image/nav-1701784681247-site-icon-ethku.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "showGithub": false,
+  "title": "9分雅思-英语学习导航",
+  "description": "英语 教学/自学/工具/资源 导航",
+  "keywords": "导航,英语,学习,雅思,单词,学习资源,听力,写作,口语",
   "theme": "Light",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2023-present ethku.com, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
@@ -28,7 +28,7 @@
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 是您英语学习的绝佳帮手。",
   "simThemeHeight": 350,
   "simThemeAutoplay": true,
   "sideThemeImages": [
