@@ -10,7 +10,7 @@
   "theme": "Light",
   "appTheme": "App",
   "headerContent": "",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2023 enlearn.top, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2023 enlearn.top, All Rights Reserved</div><div>Theme from nav3.cn, Project https://github.com/xjh22222228/nav</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "",
   "cnzzStatisticsUrl": "",
